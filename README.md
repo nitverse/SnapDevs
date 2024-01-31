@@ -1,13 +1,13 @@
-## SnapDevs
-## Getting Started
+# SnapDevs
+# Getting Started
 
-# Install Dependencies
+## Install Dependencies
     npm i
-# Start Dev Server
+## Start Dev Server
 npm run dev
-# or
+## or
 yarn dev
-# or
+## or
 pnpm dev
-# or
+## or
 bun dev
